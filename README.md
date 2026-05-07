@@ -1,4 +1,4 @@
-# TABARC Site Audit API
+# TWP-ChatGTP Site Audit API
 
 Private REST API endpoints for WordPress auditing, structured inspection, and controlled site rework workflows.
 
@@ -8,7 +8,7 @@ Built because manually untangling old WordPress installs feels increasingly like
 
 ## What this plugin actually is
 
-This is **not** another “AI website builder”.
+This is **not** another “AI website builder”. i cannot stesss this enough.
 
 It’s a controlled inspection layer for WordPress.
 
