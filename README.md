@@ -1,4 +1,4 @@
-# TWP-ChatGTP Site Audit API
+# WP-ChatGTP Site Audit API
 
 Private REST API endpoints for WordPress auditing, structured inspection, and controlled site rework workflows.
 
