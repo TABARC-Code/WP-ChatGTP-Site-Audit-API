@@ -26,7 +26,7 @@ Future development aims include:
 
 * accessibility analysis
 * design system extraction
-* classic → block theme migration tooling
+* classic to block theme migration tooling
 * SEO structure audits
 * media and template analysis
 * scripted rebuild pipelines with human review

@@ -134,7 +134,7 @@ Avoid using primary admin credentials for automation unless you enjoy avoidable 
 2. Upload via:
 
 ```text
-Plugins → Add New → Upload Plugin
+Plugins > Add New > Upload Plugin
 ```
 
 3. Activate plugin
@@ -244,7 +244,7 @@ Reverse-engineer visual logic from existing chaos
 
 Future ideas:
 
-* classic → block theme mapping
+* classic to block theme mapping
 * template analysis
 * reusable component extraction
 * pattern generation
