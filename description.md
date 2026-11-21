@@ -17,7 +17,7 @@ Built if im honest a cynical philosophy:
 
 * no unsafe live file editing
 * no arbitrary code execution
-* no “AI magic vibe ,rebuild” nonsense
+* no “one click magic rebuild” nonsense
 * no production self-destruction features pretending to be innovation
 
 Current focus is on audit infrastructure and rebuild intelligence.
@@ -29,7 +29,7 @@ Future development aims include:
 * classic → block theme migration tooling
 * SEO structure audits
 * media and template analysis
-* AI-assisted rebuild pipelines with human review
+* scripted rebuild pipelines with human review
 
 This plugin exists because large WordPress sites rarely fail from lack of features.
 

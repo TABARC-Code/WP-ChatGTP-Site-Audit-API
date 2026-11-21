@@ -8,7 +8,7 @@ Built because manually untangling old WordPress installs feels increasingly like
 
 ## What this plugin actually is
 
-This is **not** another “AI website builder”. i cannot stesss this enough.
+This is **not** another “automatic website builder”. I cannot stress this enough.
 
 It’s a controlled inspection layer for WordPress.
 
@@ -31,7 +31,7 @@ Think:
 * structural audits
 * automation pipelines
 * migration prep
-* AI-assisted analysis
+* scripted analysis
 * controlled editing workflows
 
 Not:
@@ -201,7 +201,7 @@ This plugin intentionally avoids:
 * unsafe automation
 * direct database mutation
 
-Because “AI can edit production files live” sounds innovative right up until that moment it atomises the bloody sitexx `functions.php`.
+Because “edit production files live” sounds innovative right up until that moment it atomises the bloody site's `functions.php`.
 
 I know i watched a junior dev do it.
 ---
@@ -252,27 +252,27 @@ Future ideas:
 
 ---
 
-## AI-Assisted Rebuild Pipelines
+## Scripted Rebuild Pipelines
 
 Long-term direction:
 
 ```text
 Scan site
-→ classify structure
-→ identify UX problems
-→ propose rebuild strategy
-→ stage changes
-→ human review
-→ deploy
+> classify structure
+> identify UX problems
+> propose rebuild strategy
+> stage changes
+> human review
+> deploy
 ```
 
 Not:
 
-> “AI replaces developers”
+> “Automation replaces developers”
 
 More:
 
-> “AI stops developers losing entire weekends to repetitive archaeological labour.”
+> “Automation stops developers losing entire weekends to repetitive archaeological labour.”
 
 Important distinction.
 
